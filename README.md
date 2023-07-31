@@ -11,6 +11,7 @@
     - Input System
     - TextMeshPro
     - Starter Assets - Third Person Character Controller | URP
+- 실행은 Scenes 폴더 내에 있는 Playground Scene을 열어서 진행하세요.
 
 1번 동영상 - 1번 문제
 
